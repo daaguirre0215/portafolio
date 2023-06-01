@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-oi(a8%8m#tw02vh@p@s-+wa03xeb#c+*0-+%zb&%2eok*nonyu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['deploydjango.azurewebsites.net']
 
 
 # Application definition
